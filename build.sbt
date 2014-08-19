@@ -159,6 +159,6 @@ currentProject := ""
 // handout, submission.
 commonSourcePackages += "common"
 
-// Packages in src/test/scala that are used for grading projects. Always included
+// test! Packages in src/test/scala that are used for grading projects. Always included
 // compiling tests, grading a project.
 gradingTestPackages += "grading"
